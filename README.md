@@ -1,2 +1,2 @@
 # social-login-nodejs
-Implementação de Login Social utilizando NodeJS, Angular e PassportJS.
+Implementação de Login Social com Facebook utilizando NodeJS, Angular e PassportJS.
