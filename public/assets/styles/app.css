@@ -1,0 +1,31 @@
+.position-btn-face{
+	margin-top: 30%;
+	position: relative;
+}
+
+.position-btn-google{
+	margin-top: 1%;
+	position: relative;
+}
+
+.position-btn-twitter{
+	margin-top: 1%;
+	position: relative;
+}
+
+.position-nav-wizard{
+	margin-top: 5%;
+	position: relative;
+}
+
+.position-input-step{
+	margin-top: 1%;
+	position: relative;
+}
+
+.position-help-msg{
+	margin-top: 1%;
+	position: relative;
+	color: #3a87ad;
+	font-size: 14px;
+}
