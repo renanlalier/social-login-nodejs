@@ -48,7 +48,7 @@ load('controllers')
     .then('routes')
     .into(app);
 
-server.listen(3000);
+server.listen(3001);
 console.log('App no ar ...');
 
 module.exports = app;
