@@ -6,7 +6,7 @@ var passport = require('passport'),
   API para login social no facebook utilizando módulo PassportJS
 
   Create by Renan Lalier
-  Since: 27/10/2016
+  Since: 12/12/2016
   version: 1.0
 
 **/
